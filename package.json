@@ -1,0 +1,27 @@
+{
+  "name": "pet_cypress",
+  "version": "1.0.0",
+  "description": "Cypress pet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eugene Chirkun <evgenijchirkun@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.10.0",
+    "cypress-downloadfile": "^1.2.3"
+  },
+  "devDependencies": {
+    "cypress-file-upload": "^5.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EugeneChirkun/Pet_Cypress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EugeneChirkun/Pet_Cypress/issues"
+  },
+  "homepage": "https://github.com/EugeneChirkun/Pet_Cypress#readme"
+}
